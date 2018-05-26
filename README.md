@@ -1,2 +1,2 @@
 # myFirstProject
-Trying to understand github
+Trying to understand github.
